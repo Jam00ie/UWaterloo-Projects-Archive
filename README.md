@@ -1,1 +1,1 @@
-# weacclerate-frontend
+# weaccelerate-frontend
