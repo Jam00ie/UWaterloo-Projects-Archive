@@ -9,4 +9,4 @@ app.use(bodyParser.json()).use(cors());
 
 app.get("/", (request, response) => response.send("Hello World!"));
 
-app.listen(PORT, () => console.log(`Listening on ${ PORT }`));
+app.listen(PORT, () => console.log(`Listening on http://localhost:${PORT}`));
