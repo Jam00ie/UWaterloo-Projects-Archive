@@ -2,7 +2,6 @@ import express from "express"; //importing a module
 import bodyParser from "body-parser";
 import cors from "cors";
 import data from "./data.js";
-const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
