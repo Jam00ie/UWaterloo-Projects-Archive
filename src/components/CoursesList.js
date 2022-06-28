@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import CourseListItem from './CourseListItem';
+import CourseDetails from './CourseDetails';
 
 export default class CoursesList extends Component {
     constructor(props) {
