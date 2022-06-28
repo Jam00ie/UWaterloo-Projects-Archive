@@ -9,7 +9,7 @@ function CourseListItem({ id, course_code}) {
         <div>
             <button
                 onClick = {() => {
-                    fetch(`https://weaccelerate-backend.herokuapp.com/courses/${id}`)
+                    fetch(`https://weaccelerate-backend.herokuapp.com/course/${id}`)
                     .then ((response) => response.json())
                     .then ((response) => setDetails(response));
                 }}>
