@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+/*
+
+commented out since I am unsure of what to do with this code
+
 function App() {
   return (
     <div className="App">
@@ -19,6 +23,15 @@ function App() {
         </a>
       </header>
     </div>
+  );
+}
+*/
+
+function App (props) {
+  return {
+    <>
+      <ProfCours />
+    </>
   );
 }
 
