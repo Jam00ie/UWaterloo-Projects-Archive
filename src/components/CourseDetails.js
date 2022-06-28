@@ -7,7 +7,7 @@ const CourseDetails = ({ course_name, professor, location }) => {
       <h5>Professor: {professor}</h5>
       <h5>Location: {location}</h5>
     </>
-  };
+  );
 };
 
 export default CourseDetails;
