@@ -16,7 +16,7 @@ app.get("/professors", (req, res) => {
 }
 );
 
-app.get("/professors/:id", (req, res) => {
+app.get("/professor/:id", (req, res) => {
     if (utilities.isInvalidId(req.params.id)) {
         return res.status(400).json({ error: "Invalid id." })
     }
@@ -34,7 +34,7 @@ app.get("/courses", (req, res) => {
 }
 );
 
-app.get("/courses/:id", (req, res) => {
+app.get("/course/:id", (req, res) => {
     if (utilities.isInvalidId(req.params.id)) {
         return res.status(400).json({ error: "Invalid id." })
     }
