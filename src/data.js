@@ -4,8 +4,7 @@ const data = {
             id: 1,
             name: 'Carrie Mitchell',
             email: 'cmitchell@uwaterloo.ca',
-            course_1: 'PLAN 102',
-            course_2: 'PLAN 300',
+            courses: 'PLAN 102, PLAN 300',
             office: 'EV3 3317',
             hours: '0900-1200 Mon-Fri'
         },
@@ -13,8 +12,7 @@ const data = {
             id: 2,
             name: 'Markus Moos',
             email: 'mmoos@uwaterloo.ca',
-            course_1: 'MATH 135',
-            course_2: 'N/A',
+            courses: 'MATH 135',
             office: 'M3 3306',
             hours: '1200-1500 Mon-Fri'
         },
@@ -22,8 +20,7 @@ const data = {
             id: 3,
             name: 'Jennifer Deen',
             email: 'jdeen@uwaterloo.ca',
-            course_1: 'ECON 101',
-            course_2: 'MSCI 261',
+            courses: 'ECON 101, MSCI 261',
             office: 'EV3 3221',
             hours: '0900-1200 Mon-Fri'
         },
@@ -31,8 +28,7 @@ const data = {
             id: 4,
             name: 'John L. Lewis',
             email: 'j7lewis@uwaterloo.ca',
-            course_1: 'SYDE 101L',
-            course_2: 'BME 101L',
+            courses: 'SYDE 101L, BME 101L',
             office: 'E5 6012',
             hours: '1000-1300 Mon-Fri'
         },
@@ -40,8 +36,7 @@ const data = {
             id: 5,
             name: 'Joe Qian',
             email: 'z3qian@uwaterloo.ca',
-            course_1: 'CHEM 266',
-            course_2: 'N/A',
+            courses: 'CHEM 266',
             office: 'STC 1253',
             hours: '1200-1500 Mon-Fri'
         },
