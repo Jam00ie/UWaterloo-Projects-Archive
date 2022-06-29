@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useState } from 'react';
+import CourseDetails from './CourseDetails';
 
 function CourseListItem({ id, course_code}) {
 
@@ -16,9 +17,11 @@ function CourseListItem({ id, course_code}) {
                 {course_code}
             </button>
             {details && (
-                <div>
-                    <div> {details.course_code}</div>
-                </div>
+                <CourseDetails
+                    course_name={details.course_name}
+                    professor={details.professor}
+                    location={details.location}
+                />
             )}
         </div>
     );

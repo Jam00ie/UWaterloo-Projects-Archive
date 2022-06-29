@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useState } from 'react';
+import ProfessorDetails from './ProfessorDetails';
 
 function ProfessorListItem({ id, name}) {
 
@@ -16,10 +17,14 @@ function ProfessorListItem({ id, name}) {
                 {name}
             </button>
             {details && (
-                <div>
-                    <div> {details.name}</div>
-                </div>
-            )}
+                <ProfessorDetails
+                    email={details.email}
+                    courses={details.courses}
+                    office={details.office}
+                    hours={details.hours}
+                />
+            )
+            }
         </div>
     );
 }
