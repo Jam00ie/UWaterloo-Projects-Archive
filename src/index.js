@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json()).use(cors());
 
-app.get("/", (request, response) => response.send("Hello World!!"));
+app.get("/", (request, response) => response.send("/professors | /professor/:id | /courses | /course/:id"));
 
 app.get("/professors", (req, res) => {
     res.json(data.professors);
