@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App name = 'University of Waterloo'/>
+    <App name = 'Imaginary UWaterloo Professors and Courses List'/>
   </React.StrictMode>
 );
 

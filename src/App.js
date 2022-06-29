@@ -5,9 +5,14 @@ import CoursesList from './components/CoursesList';
 function App(props) {
   return (
     <>
-      <h1>Hello, {props.name}</h1>
-      <ProfessorsList />
-      <CoursesList />
+      <body>
+        <h1>{props.name}</h1>
+        <div></div>
+        <h2>
+        <ProfessorsList />
+        <CoursesList />
+        </h2>
+      </body>
     </>
   );
 }

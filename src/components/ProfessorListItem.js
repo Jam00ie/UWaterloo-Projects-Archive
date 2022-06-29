@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
 import React, { useState } from 'react';
 import ProfessorDetails from './ProfessorDetails';
+import './components.css';
 
 function ProfessorListItem({ id, name}) {
 
@@ -23,15 +23,9 @@ function ProfessorListItem({ id, name}) {
                     office={details.office}
                     hours={details.hours}
                 />
-            )
-            }
+            )}
         </div>
     );
 }
-
-ProfessorListItem.propTypes = {
-    id: PropTypes.string.isRequired,
-    name: PropTypes.string.isRequired,
-};
 
 export default ProfessorListItem;

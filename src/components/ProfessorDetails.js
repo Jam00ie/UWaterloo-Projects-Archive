@@ -1,4 +1,5 @@
 import React from 'react';
+import './components.css';
 
 const ProfessorDetails = ({ email, courses, office, hours }) => {
     return (
