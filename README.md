@@ -1,5 +1,5 @@
 # Y.A.T.S. Wheelchair Design Project
-## Fall 2021 Group Project - Introduction to Biomedical Design, BME 161
+### Fall 2021 Group Project - Introduction to Biomedical Design, BME 161
 
 
 Quoted from design showcase report 2:
