@@ -1,1 +1,1 @@
-*Display previews for notable projects here with links*
+*Display previews for notable projects here with links later*
