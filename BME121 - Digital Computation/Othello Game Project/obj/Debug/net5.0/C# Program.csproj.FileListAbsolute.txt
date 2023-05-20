@@ -1,0 +1,64 @@
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.exe
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\C# Program\bin\Debug\net5.0\C# Program.pdb
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.csproj.AssemblyReference.cache
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.pdb
+C:\Users\jelly\OneDrive\Documents\C# Program\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.csproj.AssemblyReference.cache
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.pdb
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.exe
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\bin\Debug\net5.0\C# Program.pdb
+C:\Users\jelly\OneDrive\Documents\UW BME\FALL 2021\BME 121\C# Program\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.exe
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\bin\Debug\net5.0\C# Program.pdb
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.csproj.AssemblyReference.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.pdb
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\pa1\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.exe
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.deps.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\ref\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\bin\Debug\net5.0\C# Program.pdb
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.csproj.AssemblyReference.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\ref\C# Program.dll
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.pdb
+C:\Users\Jamie\OneDrive\Documents\UW BME\FALL 2021\BME 121\Code Archive\pa1\obj\Debug\net5.0\C# Program.genruntimeconfig.cache
