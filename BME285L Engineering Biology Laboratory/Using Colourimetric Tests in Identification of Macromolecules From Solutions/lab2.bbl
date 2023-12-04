@@ -1,0 +1,775 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Aly2014}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87f8c649322b82480c875eb00367362b}{%
+           family={Aly},
+           familyi={A\bibinitperiod},
+           given={Ashraf\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b480f422710c053cdfe0229609af198}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Alaa\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a09b622a6063a970fa53cc886986c1dd}{%
+           family={Katritzky},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{fullhash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{bibnamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authorbibnamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authornamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authorfullhash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{editorbibnamehash}{a09b622a6063a970fa53cc886986c1dd}
+      \strng{editornamehash}{a09b622a6063a970fa53cc886986c1dd}
+      \strng{editorfullhash}{a09b622a6063a970fa53cc886986c1dd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Heterocyclic Chemistry}
+      \field{issn}{0065-2725}
+      \field{title}{Chapter Four - Heterocycles from Donor-Acceptor Interactions}
+      \field{volume}{112}
+      \field{year}{2014}
+      \field{pages}{145\bibrangedash 181}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-800171-4.00004-4
+      \endverb
+    \endentry
+    \entry{Ball2011}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f873a0b125925d7368c31f2b1f8b4542}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84e056b1fc1b375ce9e4e90cd07c678d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffea5f85bedf332e9d9e178b18e09782}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Rhonda\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Flat World Knowledge}%
+      }
+      \strng{namehash}{05f2e4d2d9bed919baed96d85b1f0d9e}
+      \strng{fullhash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{bibnamehash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{authorbibnamehash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{authornamehash}{05f2e4d2d9bed919baed96d85b1f0d9e}
+      \strng{authorfullhash}{674b64b3b89095cc0877036a46103ee7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introduction to Chemistry: General, Organic, and Biological}
+      \field{title}{Polysaccharides}
+      \field{year}{2011}
+    \endentry
+    \entry{Bhagavan2002}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86e9323cfeb1891e63755ba50e20f1af}{%
+           family={Bhagavan},
+           familyi={B\bibinitperiod},
+           given={N.V.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=86e9323cfeb1891e63755ba50e20f1af}{%
+           family={Bhagavan},
+           familyi={B\bibinitperiod},
+           given={N.V.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{fullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{bibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authorbibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authornamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authorfullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editorbibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editornamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editorfullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Medical Biochemistry}
+      \field{edition}{Fourth}
+      \field{isbn}{978-0-12-095440-7}
+      \field{title}{CHAPTER 3 - Protein Isolation and Determination of Amino Acid Sequence}
+      \field{year}{2002}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-012095440-7/50005-6
+      \endverb
+    \endentry
+    \entry{LM2023}{manual}{}
+      \list{organization}{1}{%
+        {Department of Biology}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{title}{BME 285L Labortatory Manual}
+      \field{year}{2023}
+    \endentry
+    \entry{Brust2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=12b83a1f4bcf7695f8b1a81bcbb6c639}{%
+           family={Brust},
+           familyi={B\bibinitperiod},
+           given={Henrike},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0c29a977a2561094c160f1ee3d8c468}{%
+           family={Orzechowski},
+           familyi={O\bibinitperiod},
+           given={Sławomir},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9191da4f6c4e335c3a9926e93e776142}{%
+           family={Fettke},
+           familyi={F\bibinitperiod},
+           given={Joerg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{221b3e12dba5864cd17a0bd4cf4ab6c6}
+      \strng{fullhash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{bibnamehash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{authorbibnamehash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{authornamehash}{221b3e12dba5864cd17a0bd4cf4ab6c6}
+      \strng{authorfullhash}{2805dae1066122f744e1ecee66b868f2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biomolecules}
+      \field{title}{Starch and Glycogen Analyses: Methods and Techniques}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/biom10071020
+      \endverb
+    \endentry
+    \entry{Calabrese2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=42d1e8a64b3826e2ea64085a93cddb2c}{%
+           family={Calabrese},
+           familyi={C\bibinitperiod},
+           given={Vincent\bibnamedelima T.},
+           giveni={V\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4f863354004bf3790f0a2e6218e7658}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Arshad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{fullhash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{bibnamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authorbibnamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authornamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authorfullhash}{227c64bfd1ab1583b53bc6115964a78b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry A}
+      \field{title}{Polyiodine and Polyiodide Species in an Aqueous Solution of Iodine + KI: Theoretical and Experimental Studies}
+      \field{year}{2000}
+      \verb{doi}
+      \verb 10.1021/jp992847r
+      \endverb
+    \endentry
+    \entry{Calatayud2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c53dfd0bc36c538bcd036554e14899a7}{%
+           family={Calatayud},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi Martínez.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64ad9557c3f7213cf798b37f6d1cfa3e}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={L.\bibnamedelimi Lahuerta.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=4c0d6ca34e387a8fd4585f8d8f39e201}{%
+           family={Worsfold},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3c5da7d4017e82f743890337f1ffdd67}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=74dd6178ce10868bb3ef287b8e5ffe49}{%
+           family={Townshend},
+           familyi={T\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7430b66942345853c7713282020e0d3}{%
+           family={Miró},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{fullhash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{bibnamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authorbibnamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authornamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authorfullhash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{editorbibnamehash}{8236cb0f7a2363961a7ec0a551c3c8bf}
+      \strng{editornamehash}{92c39ba18b9acfc267ea52548e718328}
+      \strng{editorfullhash}{8236cb0f7a2363961a7ec0a551c3c8bf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Analytical Science}
+      \field{edition}{Third}
+      \field{isbn}{978-0-08-101984-9}
+      \field{title}{Spectrophotometry | Pharmaceutical Applications}
+      \field{year}{2013}
+      \field{pages}{249\bibrangedash 262}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-409547-2.00507-2
+      \endverb
+    \endentry
+    \entry{Goedecke2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9512a5745eb74dfcbf15e85e914d7ddc}{%
+           family={Goedecke},
+           familyi={G\bibinitperiod},
+           given={Catharina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{fullhash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{bibnamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authorbibnamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authornamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authorfullhash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemistryViews}
+      \field{title}{Why Does Iodine Turn Starch Blue?}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1002/chemv.201600103
+      \endverb
+    \endentry
+    \entry{Markina2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8e3bda749475bcf64cb64fccd4172eed}{%
+           family={Markina},
+           familyi={M\bibinitperiod},
+           given={Natalia\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f536b1f82d4435145d2d362efdb4d37}{%
+           family={Pozharov},
+           familyi={P\bibinitperiod},
+           given={Mikhail\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fe47de05f490a1ff331eda8c1b572c9}{%
+           family={Markin},
+           familyi={M\bibinitperiod},
+           given={Alexey\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05a1322a69d23a2b2f915234a4ce37c6}
+      \strng{fullhash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{bibnamehash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{authorbibnamehash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{authornamehash}{05a1322a69d23a2b2f915234a4ce37c6}
+      \strng{authorfullhash}{d958215b71e5ed02de4af34e11a3161a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{number}{4}
+      \field{title}{Synthesis of Copper(I) Oxide Particles with Variable Color: Demonstrating Size-Dependent Optical Properties for High School Students}
+      \field{volume}{93}
+      \field{year}{2016}
+      \field{pages}{704\bibrangedash 707}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.5b00563
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Aly2014}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87f8c649322b82480c875eb00367362b}{%
+           family={Aly},
+           familyi={A\bibinitperiod},
+           given={Ashraf\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b480f422710c053cdfe0229609af198}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Alaa\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a09b622a6063a970fa53cc886986c1dd}{%
+           family={Katritzky},
+           familyi={K\bibinitperiod},
+           given={Alan\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{fullhash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{bibnamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authorbibnamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authornamehash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{authorfullhash}{3b28c6abbe06672372dfcad8dcec3501}
+      \strng{editorbibnamehash}{a09b622a6063a970fa53cc886986c1dd}
+      \strng{editornamehash}{a09b622a6063a970fa53cc886986c1dd}
+      \strng{editorfullhash}{a09b622a6063a970fa53cc886986c1dd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Heterocyclic Chemistry}
+      \field{issn}{0065-2725}
+      \field{title}{Chapter Four - Heterocycles from Donor-Acceptor Interactions}
+      \field{volume}{112}
+      \field{year}{2014}
+      \field{pages}{145\bibrangedash 181}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-800171-4.00004-4
+      \endverb
+    \endentry
+    \entry{Ball2011}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f873a0b125925d7368c31f2b1f8b4542}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84e056b1fc1b375ce9e4e90cd07c678d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffea5f85bedf332e9d9e178b18e09782}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Rhonda\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Flat World Knowledge}%
+      }
+      \strng{namehash}{05f2e4d2d9bed919baed96d85b1f0d9e}
+      \strng{fullhash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{bibnamehash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{authorbibnamehash}{674b64b3b89095cc0877036a46103ee7}
+      \strng{authornamehash}{05f2e4d2d9bed919baed96d85b1f0d9e}
+      \strng{authorfullhash}{674b64b3b89095cc0877036a46103ee7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Introduction to Chemistry: General, Organic, and Biological}
+      \field{title}{Polysaccharides}
+      \field{year}{2011}
+    \endentry
+    \entry{Bhagavan2002}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86e9323cfeb1891e63755ba50e20f1af}{%
+           family={Bhagavan},
+           familyi={B\bibinitperiod},
+           given={N.V.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=86e9323cfeb1891e63755ba50e20f1af}{%
+           family={Bhagavan},
+           familyi={B\bibinitperiod},
+           given={N.V.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{fullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{bibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authorbibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authornamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{authorfullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editorbibnamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editornamehash}{86e9323cfeb1891e63755ba50e20f1af}
+      \strng{editorfullhash}{86e9323cfeb1891e63755ba50e20f1af}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Medical Biochemistry}
+      \field{edition}{Fourth}
+      \field{isbn}{978-0-12-095440-7}
+      \field{title}{CHAPTER 3 - Protein Isolation and Determination of Amino Acid Sequence}
+      \field{year}{2002}
+      \field{pages}{35\bibrangedash 50}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-012095440-7/50005-6
+      \endverb
+    \endentry
+    \entry{LM2023}{manual}{}
+      \list{organization}{1}{%
+        {Department of Biology}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{title}{BME 285L Labortatory Manual}
+      \field{year}{2023}
+    \endentry
+    \entry{Brust2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=12b83a1f4bcf7695f8b1a81bcbb6c639}{%
+           family={Brust},
+           familyi={B\bibinitperiod},
+           given={Henrike},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0c29a977a2561094c160f1ee3d8c468}{%
+           family={Orzechowski},
+           familyi={O\bibinitperiod},
+           given={Sławomir},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9191da4f6c4e335c3a9926e93e776142}{%
+           family={Fettke},
+           familyi={F\bibinitperiod},
+           given={Joerg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{221b3e12dba5864cd17a0bd4cf4ab6c6}
+      \strng{fullhash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{bibnamehash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{authorbibnamehash}{2805dae1066122f744e1ecee66b868f2}
+      \strng{authornamehash}{221b3e12dba5864cd17a0bd4cf4ab6c6}
+      \strng{authorfullhash}{2805dae1066122f744e1ecee66b868f2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biomolecules}
+      \field{title}{Starch and Glycogen Analyses: Methods and Techniques}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/biom10071020
+      \endverb
+    \endentry
+    \entry{Calabrese2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=42d1e8a64b3826e2ea64085a93cddb2c}{%
+           family={Calabrese},
+           familyi={C\bibinitperiod},
+           given={Vincent\bibnamedelima T.},
+           giveni={V\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4f863354004bf3790f0a2e6218e7658}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Arshad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{fullhash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{bibnamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authorbibnamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authornamehash}{227c64bfd1ab1583b53bc6115964a78b}
+      \strng{authorfullhash}{227c64bfd1ab1583b53bc6115964a78b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry A}
+      \field{title}{Polyiodine and Polyiodide Species in an Aqueous Solution of Iodine + KI: Theoretical and Experimental Studies}
+      \field{year}{2000}
+      \verb{doi}
+      \verb 10.1021/jp992847r
+      \endverb
+    \endentry
+    \entry{Calatayud2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c53dfd0bc36c538bcd036554e14899a7}{%
+           family={Calatayud},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi Martínez.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64ad9557c3f7213cf798b37f6d1cfa3e}{%
+           family={Zamora},
+           familyi={Z\bibinitperiod},
+           given={L.\bibnamedelimi Lahuerta.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=4c0d6ca34e387a8fd4585f8d8f39e201}{%
+           family={Worsfold},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3c5da7d4017e82f743890337f1ffdd67}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=74dd6178ce10868bb3ef287b8e5ffe49}{%
+           family={Townshend},
+           familyi={T\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7430b66942345853c7713282020e0d3}{%
+           family={Miró},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{fullhash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{bibnamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authorbibnamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authornamehash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{authorfullhash}{2c08e3515d829d714b90d4b2d13d052f}
+      \strng{editorbibnamehash}{8236cb0f7a2363961a7ec0a551c3c8bf}
+      \strng{editornamehash}{92c39ba18b9acfc267ea52548e718328}
+      \strng{editorfullhash}{8236cb0f7a2363961a7ec0a551c3c8bf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Analytical Science}
+      \field{edition}{Third}
+      \field{isbn}{978-0-08-101984-9}
+      \field{title}{Spectrophotometry | Pharmaceutical Applications}
+      \field{year}{2013}
+      \field{pages}{249\bibrangedash 262}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-409547-2.00507-2
+      \endverb
+    \endentry
+    \entry{Goedecke2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9512a5745eb74dfcbf15e85e914d7ddc}{%
+           family={Goedecke},
+           familyi={G\bibinitperiod},
+           given={Catharina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{fullhash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{bibnamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authorbibnamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authornamehash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \strng{authorfullhash}{9512a5745eb74dfcbf15e85e914d7ddc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemistryViews}
+      \field{title}{Why Does Iodine Turn Starch Blue?}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1002/chemv.201600103
+      \endverb
+    \endentry
+    \entry{Markina2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8e3bda749475bcf64cb64fccd4172eed}{%
+           family={Markina},
+           familyi={M\bibinitperiod},
+           given={Natalia\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f536b1f82d4435145d2d362efdb4d37}{%
+           family={Pozharov},
+           familyi={P\bibinitperiod},
+           given={Mikhail\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fe47de05f490a1ff331eda8c1b572c9}{%
+           family={Markin},
+           familyi={M\bibinitperiod},
+           given={Alexey\bibnamedelima V.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05a1322a69d23a2b2f915234a4ce37c6}
+      \strng{fullhash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{bibnamehash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{authorbibnamehash}{d958215b71e5ed02de4af34e11a3161a}
+      \strng{authornamehash}{05a1322a69d23a2b2f915234a4ce37c6}
+      \strng{authorfullhash}{d958215b71e5ed02de4af34e11a3161a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{number}{4}
+      \field{title}{Synthesis of Copper(I) Oxide Particles with Variable Color: Demonstrating Size-Dependent Optical Properties for High School Students}
+      \field{volume}{93}
+      \field{year}{2016}
+      \field{pages}{704\bibrangedash 707}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1021/acs.jchemed.5b00563
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,60 @@
+\documentclass[12pt]{article}
+
+% PACKAGES --------------------------------------------------
+
+    \usepackage{geometry}
+    \usepackage{fontspec}
+    \usepackage{indentfirst}
+    \usepackage{tabularx, graphicx}
+    \usepackage{enumitem}
+    \usepackage{hyperref}
+    \usepackage[style=apa, backend=biber]{biblatex}
+    \usepackage{amsmath,amssymb,amsfonts, bm}
+    \usepackage{unicode-math}
+    \usepackage{blindtext}
+    \usepackage{booktabs}
+    \usepackage{setspace}
+    \usepackage{fancyhdr}
+    \usepackage{titlesec}
+    \usepackage{caption}
+    \usepackage{bibentry}
+    \usepackage{textgreek}
+    \usepackage[norule, hang, flushmargin]{footmisc}
+    \usepackage[flushleft]{threeparttable}
+
+% SETTINGS --------------------------------------------------
+
+    \geometry{letterpaper}
+    \geometry{margin=1in}
+    \setromanfont{Times New Roman}
+    \setmathfont{TeX Gyre Termes Math}
+    \urlstyle{same}
+    \doublespace{}
+    \addbibresource{lab2refs.bib}
+
+    \pagestyle{fancy}
+    \fancyhf{}
+    \setlength{\headheight}{14.49998pt}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyhead[R]{\thepage}
+    \titleformat{\section}
+        {\normalfont\normalsize\bfseries\centering}{\thesection}{1em}{}
+    
+    \DeclareCaptionLabelSeparator*{spaced}{\\[2ex]}
+    \captionsetup[table]{textfont=it,format=plain,justification=justified,
+        singlelinecheck=false,labelsep=spaced,skip=0pt}
+    \captionsetup{labelfont={bf}}
+    %\captionsetup[figure]{labelsep=period,labelfont=it,%justification=justified,
+    %    singlelinecheck=false,font=doublespacing}
+
+% MAIN --------------------------------------------------
+
+\begin{document}
+    \input{lab2titlepage.tex}
+    \input{lab2introduction.tex}
+    \input{lab2materialsandmethods.tex}
+    \input{lab2results.tex}
+    \input{lab2discussion.tex}
+    
+    \printbibliography{}
+\end{document}

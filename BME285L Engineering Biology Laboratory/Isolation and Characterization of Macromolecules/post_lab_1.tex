@@ -1,0 +1,34 @@
+\documentclass[12pt]{article}
+
+% PACKAGES --------------------------------------------------
+
+    \usepackage{geometry}
+    \usepackage{fontspec}
+    \usepackage{indentfirst}
+    \usepackage{tabularx}
+    \usepackage{enumitem}
+    \usepackage{hyperref}
+    \usepackage{mdframed}
+    \usepackage{graphicx}
+    \usepackage{amsmath}
+    \usepackage[round]{natbib}
+
+% SETTINGS --------------------------------------------------
+
+    \geometry{letterpaper}
+    \geometry{margin=.5in}
+    \setromanfont{ArnoPro}
+    \urlstyle{same}
+
+% MAIN --------------------------------------------------
+
+    \begin{document}
+        \input{titlepage.tex}
+        \input{flowchart.tex}
+        \input{summary.tex}
+        \input{results.tex}
+        \input{discussion_questions.tex}
+
+        \bibliographystyle{apalike}
+        \bibliography{refs}
+    \end{document}
